@@ -1,1 +1,1 @@
-print("zhara hi this fr ,,,,,,om  Zibi")
+print("zhara hi thismnbvcvbn fr ,,,,,,om  Zibi")
